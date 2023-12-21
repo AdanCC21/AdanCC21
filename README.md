@@ -1,6 +1,6 @@
 ### Hola 👋
 
-![img](https://cdn.discordapp.com/attachments/1088654568218443926/1177117379575160863/Git.png?ex=657156fd&is=655ee1fd&hm=106969ad026f94bd7e3a086845a375ae6f12e7a34329d21f6aac52cd557cc289&)
+![img](https://cdn.discordapp.com/attachments/1088654568218443926/1187277607037849710/Git3.png?ex=65964d70&is=6583d870&hm=768a9b69a14658a23de9ffc54d9919d8aa610c63fd908060d9509afc860b46bf&)
 
 Sobre mi:
 - 👻 Estudiante
