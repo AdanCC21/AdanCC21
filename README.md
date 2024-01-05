@@ -4,7 +4,7 @@
 
 Sobre mi:
 - 👻 Estudiante
-- 🌱 Aprendiedo C   C++   Pyhton
+- 🌱 Aprendiedo C   C++   Pyhton    CSS
 - 🌎 Bases de html
 - 🥶 Puro Only Codes
 - 🤑 UABC Ensenada
