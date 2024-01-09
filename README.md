@@ -5,8 +5,8 @@
 Sobre mi:
 - 👻 Estudiante
 - 🌱 Aprendiedo 
-    C   
-    C++
+        C   
+        C++
     Python
 - 🌎 Bases de html y css
 - 🥶 Puro Only Codes
