@@ -1,13 +1,19 @@
-### Hola 👋
+### <center> Hola 👋</center>
 
-![img](https://cdn.discordapp.com/attachments/1088654568218443926/1187277607037849710/Git3.png?ex=65964d70&is=6583d870&hm=768a9b69a14658a23de9ffc54d9919d8aa610c63fd908060d9509afc860b46bf&)
+<img src="assets/Git3.png">
+<br>
 
-Sobre mi:
-- 👻 Estudiante
-- 🌱 Aprendiedo 
-    - C   
+### ¿Quien soy?
+- Me llamo Adan Gonzalez
+- Soy un estudiante de UABC
+- Pertenezco a la facultad de ingenieria, arquitectura y diseño
+- Inicie mi carrera de ingeniero en software en 2022
+
+### En la actualidad:
+- 🌱 Estoy Aprendiedo 
+    - C
     - C++
     - Python
-- 🌎 Bases de html y css
-- 🥶 Puro Only Codes
-- 🤑 UABC Ensenada
+- 🌎 Conozco las bases de html y css
+- 🥶 Integrante de Only Codes
+- 🎬 Editor de videos como hobby
