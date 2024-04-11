@@ -7,6 +7,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdanCC21&layout=compact)
 
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AndanCC21)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Datos extra
 - 🥶 Integrante de Only Codes
 - 🎬 Editor de videos como hobby
