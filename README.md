@@ -1,5 +1,3 @@
-### Hola 👋
-
 <img src="assets/Git3.png">
 
 ## Sobre mi
@@ -9,7 +7,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdanCC21&theme=dark&show_icons=true)
 
-<img src="assets/cat-cute.gif" width="300">
 
 ### Manejo un poco de HTML y Css
 
@@ -18,3 +15,5 @@
 - 🎬 Editor de videos como hobby
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdanCC21)](https://github.com/AdanCC21/github-readme-stats)
+
+<img src="assets/cat-cute.gif" width="300">
