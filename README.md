@@ -8,41 +8,13 @@
 - i speak a little bit of english, just a little bit
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdanCC21&theme=dark&show_icons=true)
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdanCC21)](https://github.com/AdanCC21/github-readme-stats)
-
 
 <img src="assets/cat-cute.gif" width="300">
-
-### Lenguajes que manejo
-
-``` 
-    #include <iostream>
-
-    using std::cout;
-    using std::endl;
-
-    int main()
-    {
-        cout<<"Estoy comenzando a usar c++"<<endl;
-        return 0;
-    }
-```
-``` 
-    #include <stdio.h>
-
-    int main()
-    {
-        printf("Manejo C");
-        return 0;
-    }
-```
-``` 
-    print("Y un poco de python")
-```
 
 ### Manejo un poco de HTML y Css
 
 ### Datos extra
 - 🥶 Integrante de Only Codes
 - 🎬 Editor de videos como hobby
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdanCC21)](https://github.com/AdanCC21/github-readme-stats)
