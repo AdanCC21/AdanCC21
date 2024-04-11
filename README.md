@@ -5,7 +5,7 @@
 - Actualmente estoy cursando una carrea de ingenieria en software y tecnologias emergentes
 - i speak a little bit of english, just a little bit
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdanCC21)](https://github.com/AdanCC21/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdanCC21&size_weight=0.5&count_weight=0.5)
 
 ### Datos extra
 - 🥶 Integrante de Only Codes
