@@ -11,5 +11,6 @@
 ### Datos extra
 - 🥶 Integrante de Only Codes
 - 🎬 Editor de videos como hobby
+- Quiero aprender JavaScript y Kotlin
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdanCC21&theme=dark&show_icons=true)
