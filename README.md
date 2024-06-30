@@ -1,15 +1,10 @@
 <img src="assets/GitHub.gif">
 
-<<<<<<< HEAD
 <div>
     <a href="https://adancc21.github.io/Web/" style="font-size:30px;"> Portafolio </a>
 </div>
 
 ---
-=======
-# [Portafolio](https://adancc21.github.io/Web/)
-
->>>>>>> 366c5d20b6c74f6db50ace0e960a683b2ed6b262
 ## Sobre mi
 - Soy un estudiante de Universidad Autonoma de Baja California
 - Actualmente estoy cursando una carrea de ingenieria en software y tecnologias emergentes
