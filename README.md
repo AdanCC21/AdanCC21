@@ -1,4 +1,4 @@
-<img src="assets/GitHub.gif">
+<img src="assets/Github2.gif">
 
 # [Portafolio](https://adancc21.github.io/Web/)
 
