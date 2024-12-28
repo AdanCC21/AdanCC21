@@ -1,6 +1,6 @@
 <img src="assets/Github2.gif">
 
-# [2do Portafolio](https://adancc21.github.io/Portafolio/)
+# [Portafolio](https://adancc21.github.io/portfolio/)
 
 ## Sobre mi
 - Soy un estudiante de Universidad Autonoma de Baja California
